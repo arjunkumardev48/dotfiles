@@ -1,0 +1,11 @@
+[user]
+    name = Arjun Kumar
+    email = arjun.kumar.dev48@gmail.com
+
+[core]
+    editor = vim
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
